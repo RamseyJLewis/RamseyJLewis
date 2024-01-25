@@ -1,5 +1,5 @@
 # Ramsey Lewis
-@Merkle - Software Development & cloud computing<br><br>....but I am always open to passion projects
+@Dentsu - Software Development & cloud computing<br><br>....but I am always open to passion projects
 
 
 ## 🌐 Socials:
