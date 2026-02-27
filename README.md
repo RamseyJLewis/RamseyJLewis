@@ -1,5 +1,5 @@
 # Ramsey Lewis
-@Dentsu - Software Development & cloud computing
+Senior technology professional with expertise in architecting enterprise solutions, leading technical teams, and delivering software & cloud solutions for Fortune 500 clients. Proven track record in personalization, experimentation frameworks, and AI-powered systems that drive measurable business impact.
 
 
 ## 🌐 Socials:
